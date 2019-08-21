@@ -1,0 +1,6 @@
+main: one.sweptthr.weatherperish.Main
+name: WeatherPerish
+version: 1
+api-version: 1.14
+author: SweptThrone
+description: Tell the gods no and they'll stop the rain.
