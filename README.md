@@ -11,5 +11,5 @@ That's it. This one's just a dumb fun quick plugin.
 This uses a deprecated function on account of me having zero familiarity with the Spigot API and limited experience with Java and asynchronous/synchronous code stuff.
 
 LINKS:
-ZIP (JAR and README) - sweptthr.one/weatherperish.zip
+ZIP (JAR and README) - sweptthr.one/weatherperish.zip  
 Source - github.com/SweptThrone/WeatherPerish
